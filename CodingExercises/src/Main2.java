@@ -19,7 +19,7 @@ public class Main2 {
 			System.out.println("Invalid value");
 		} else {
 			long milesPerHour = toMilesPerHour(kilometersPerHour);
-			System.out.println(kilometersPerHour + " km/h= " + milesPerHour + " mi/h");
+			System.out.println(kilometersPerHour + " km/h= " + milesPerHour + "  mi/h");
 		}
 	}
 }
